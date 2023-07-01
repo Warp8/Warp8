@@ -6,14 +6,9 @@
 ##
 <p align="center">Uma plataforma que busca tornar as conexões da moda algo fácil e rápido :)</p>
 
-<a href="https://www.instagram.com/seu_perfil_aqui">
+<a href="https://instagram.com/warp_8?igshid=MzRlODBiNWFlZA==">
   <img width="60" height="60" src="https://img.icons8.com/fluency/96/instagram-new.png" alt="instagram-new"/>
 </a>
-
-<div style="display: inline_block"><br>
-  <img width="60" height="60" src="https://img.icons8.com/color/96/youtube-play.png" alt="youtube-play"/>
-</div>
-
 
 
 
